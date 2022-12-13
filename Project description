@@ -1,0 +1,4 @@
+# Commision-Calculator
+
+You work in a company where salespeople receive 13% commissions on their total sales, and your boss wants you to help the salespeople calculate their commissions by creating a program that asks them their name and how much they've sold this month.
+Your program will answer them with a sentence that includes their name and the amount of commissions they are entitled to.
